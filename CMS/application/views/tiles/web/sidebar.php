@@ -1,0 +1,1 @@
+<span>test2/sidebar.php file.</span>
